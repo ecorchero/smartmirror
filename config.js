@@ -58,7 +58,7 @@ let config = {
 				locationID: "2661039", //or 2643743 for London, 5128581 for NYC, or 5364275 for Laguna Beach, 3028808 for Cannes, 2661039 for Davos 
 				//ID from https://openweathermap.org/find
 				//Find the city by name and country, then copy the code on the browser address
-				apiKey: "6da27524d67fa1b1eebd3b849449ac43"
+				apiKey: "get_your_own_key"
 			}
 		},
 		/*{
